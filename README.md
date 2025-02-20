@@ -1,6 +1,6 @@
 ﻿# Web Crawler Example Using CrawlNet.Crawler
 
-This project demonstrates how to use `CrawlNet.Crawler` to fetch and extract website links while respecting `robots.txt` rules. The crawler checks if a website allows crawling before extracting its links.
+This project demonstrates how to use HtmlAgilityPack & Microsoft.Playwright to fetch and extract website links while respecting `robots.txt` rules.
 
 ## Features
 - Reads `robots.txt` to determine if crawling is allowed.
